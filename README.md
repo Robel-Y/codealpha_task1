@@ -28,11 +28,11 @@ A modern, responsive image gallery built using HTML, CSS, and JavaScript. This p
 ---
 
 ## 📁 File Structure
-project/
-#├── index.html  Main HTML page
-#├── style.css  Styling and layout
-#├── script.js  JavaScript interactivity
-#├── image.ico  Favicon (optional)
+image-gallery/
+├── index.html
+├── style.css
+├── script.js
+└── image.ico (optional favicon)
 
 ---
 
